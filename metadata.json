@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Bill Splitter",
+  "description": "A smart bill splitting application with AI-powered receipt scanning and visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
